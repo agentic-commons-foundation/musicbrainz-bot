@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright 2026 Agentic Commons (in formation)
+# SPDX-License-Identifier: Apache-2.0
 """
 MusicBrainz alias-submission bot.
 

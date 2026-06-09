@@ -89,4 +89,4 @@ For questions, concerns, or to report a problematic edit: please email the opera
 
 ## License
 
-[MIT](LICENSE)
+[Apache 2.0](LICENSE) — see [NOTICE](NOTICE). Source code across the org is licensed Apache 2.0 per the [organization licensing policy](https://github.com/agentic-commons-foundation/.github/blob/main/LICENSING.md).
